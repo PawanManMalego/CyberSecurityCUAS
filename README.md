@@ -8,20 +8,20 @@
 | 20.01.2025  | 1.5h       | Learning: What was taken?                  | Cisco                                                  |  |
 | 21.01.2025  | 1h         | Learning: Cyberattacks                     | Cisco                                                  |  | 
 | 23.01.2025  | 1.5h       |  Learned about PortSwigger environment     | Online Class                                           |  |
-| 23.01.2025  | 0.5h       | Analyzing a Cyber Attack   |            Cisco                  |  |
-| 23.01.2025  |  1h      | Methods of Infiltration   |                   Cisco           |  |
-| 23.01.2025  |  0.5h      |  Security Vulnerability and Exploits  |        Cisco                      |  |
-| 23.01.2025  |  0.25h      | The Cybersecurity Landscape   |             Cisco                 |  |
-| 23.01.2025  |  1h      |  Protecting Your Devices and Network  |     Cisco                         |  |
-| 23.01.2025 |  1h      |  Data Maintenance  |                   Cisco           |  |
-| 23.01.2025 |  1h      | Who Owns Your Data?   |            Cisco                  |  |
-| 23.01.2025 | 0.5h       | Safeguarding Your Online Privacy   |      Cisco                        |  |
-| 23.01.2025 |  1.5h      |  Discover Your Own Risky Online Behavior  |      Cisco                        |  |
-| 23.01.2025 |  1.5h      | Cybersecurity Devices and Technologies   |           Cisco                   |  |
-| 23.01.2025 | 1h       | Behavior Approach to Cybersecurity   |        Cisco                      |  |
-| 23.01.2025 |  1h      | Cisco's Approach to Cybersecurity   |      Cisco                        |  |
-| 23.01.2025 |  1h      |  Legal and Ethical Issues  |    Cisco                          |  |
-| 23.01.2025 |   0.5h     | Education and Careers   |          Cisco                    |  |
+| 24.01.2025  | 0.5h       | Analyzing a Cyber Attack   |            Cisco                  |  |
+| 24.01.2025  |  1h      | Methods of Infiltration   |                   Cisco           |  |
+| 26.01.2025  |  0.5h      |  Security Vulnerability and Exploits  |        Cisco                      |  |
+| 26.01.2025  |  0.25h      | The Cybersecurity Landscape   |             Cisco                 |  |
+| 26.01.2025  |  1h      |  Protecting Your Devices and Network  |     Cisco                         |  |
+| 27.01.2025 |  1h      |  Data Maintenance  |                   Cisco           |  |
+| 28.01.2025 |  1h      | Who Owns Your Data?   |            Cisco                  |  |
+| 28.01.2025 | 0.5h       | Safeguarding Your Online Privacy   |      Cisco                        |  |
+| 29.01.2025 |  1.5h      |  Discover Your Own Risky Online Behavior  |      Cisco                        |  |
+| 29.01.2025 |  1.5h      | Cybersecurity Devices and Technologies   |           Cisco                   |  |
+| 30.01.2025 | 1h       | Behavior Approach to Cybersecurity   |        Cisco                      |  |
+| 30.01.2025 |  1h      | Cisco's Approach to Cybersecurity   |      Cisco                        |  |
+| 31.01.2025 |  1h      |  Legal and Ethical Issues  |    Cisco                          |  |
+| 31.01.2025 |   0.5h     | Education and Careers   |          Cisco                    |  |
 | 01.02.2025 |  0.5h    | Module Quiz 1   |         Cisco                     |  |
 | 01.02.2025 |  0.5h     | Module Quiz 2   |        Cisco                      |  |
 | 01.02.2025 |  0.5h     |  Module Quiz 3 |         Cisco                     |  |
